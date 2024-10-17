@@ -1,5 +1,5 @@
 # Spellbound SMP Modpack Installation Guide
-
+![Logo](/spellboundsmp.jpg)
 This guide will walk you through the process of installing the Spellbound SMP modpack using Prism Launcher. Spellbound SMP is a magical modpack created by our small community.
 
 ## Prerequisites
