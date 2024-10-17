@@ -28,7 +28,7 @@ This guide will walk you through the process of installing the Spellbound SMP mo
 
 1. Click the "Add Instance" button in Prism Launcher.
 2. Select "Import" from the left sidebar.
-3. Under "Local file or link to a direct download:" paste [this link](https://www.dropbox.com/scl/fi/xxycbrwv3la8w0rgew7n2/Spellbound-SMP-v.1.0.zip?rlkey=qe9pqalcz6lkiqg8do3jr10ng&st=1fbqiw2l&dl=1) DO NOT ALTER THE LINK IN ANY WAY.
+3. Under "Local file or link to a direct download:" paste https://www.dropbox.com/scl/fi/xxycbrwv3la8w0rgew7n2/Spellbound-SMP-v.1.0.zip?rlkey=qe9pqalcz6lkiqg8do3jr10ng&st=1fbqiw2l&dl=1 DO NOT ALTER THE LINK IN ANY WAY.
 4. Give your instance a name (e.g., "Spellbound SMP").
 5. Click "OK" to create the instance.
 
