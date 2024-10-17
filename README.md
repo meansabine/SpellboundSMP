@@ -37,6 +37,27 @@ This guide will walk you through the process of installing the Spellbound SMP mo
 1. Select the newly created "Spellbound SMP" instance in Prism Launcher.
 2. Click the "Play" button to start the game.
 
+## Skipping Java Compatibility Checks
+
+If you're experiencing issues with Java compatibility checks, you can skip them:
+
+1. Right-click on the Spellbound SMP instance in Prism Launcher.
+2. Select "Edit Instance".
+3. Go to the "Settings" tab.
+4. Check the box next to "Skip Java compatibility checks".
+5. Click "Close" to save the changes.
+
+## Installing Java 17
+
+If you don't have Java 17 installed, follow these steps:
+
+1. Visit the [AdoptOpenJDK website](https://adoptopenjdk.net/).
+2. Select "OpenJDK 17 (LTS)" from the version dropdown.
+3. Choose your operating system and architecture.
+4. Click the "Latest release" download button.
+5. Run the installer and follow the on-screen instructions.
+6. After installation, restart Prism Launcher and select the newly installed Java 17 in the Java settings.
+
 ## Troubleshooting
 
 - If you encounter any issues with game performance, try allocating more or less RAM in the Prism Launcher settings.
@@ -46,7 +67,6 @@ This guide will walk you through the process of installing the Spellbound SMP mo
 ## Community
 
 Join our small but passionate community to share your magical adventures and get help if needed:
-
 - Discord: [Link to Discord server](https://discord.gg/65Yfpwvxv4)
 
 Enjoy your magical journey in Spellbound SMP!
